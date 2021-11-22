@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="WebUntitled:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/WebUntitled_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="WebUntitled" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: servlets.com:cos:05Nov2002" />
+          <element id="library" level="project" name="jstl" />
+          <element id="library" level="project" name="tomcat-jdbc" />
+          <element id="library" level="project" name="ojdbc6" />
+          <element id="library" level="project" name="jsp-api" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="WebUntitled/web/Web" />
+    </root>
+  </artifact>
+</component>
